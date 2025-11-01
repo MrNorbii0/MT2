@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+}
+
+.images {
+    text-align: center;
+    img {
+        border: 2px dashed black;
+        margin-bottom: 1cm;
+    }
+}
+
