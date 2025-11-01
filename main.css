@@ -93,3 +93,15 @@ h1 {
     }
 }
 
+
+h1 {
+    text-align: center;
+}
+
+input {
+    background-color: blue;
+}
+
+.btn {
+    background-color: green;
+}
