@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+
+ol {
+    width: 20%;
+    border: 2px solid red;
+}
+
+li {
+    padding: 3px;
+    font-weight: bold;
+}
