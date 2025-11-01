@@ -1,0 +1,43 @@
+.menu {
+    text-align: right;
+    margin: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    width: 100%;
+}
+
+h2 {
+    text-align: center;
+}
+
+.infoContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.info1, .info2, .info3 {
+    p {
+        text-align: center;
+    }
+    width: 30%;
+}
+
+@media (max-width: 600px) {
+    .infoContainer {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+.links {
+    a:hover {
+        color: red;
+    }
+}
