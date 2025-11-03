@@ -8,7 +8,7 @@
  >* Github: Norbert Żal (MrNorbii0)
  >* Tasks: 1
 
-3. Norbert Żal
+3. Kacper Szarek
  >* Github: Kacper Szarek (Sqanchy)
  >* Tasks: 4, 5
 
